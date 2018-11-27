@@ -2,7 +2,7 @@
   <img src="https://raw.github.com/nodejitsu/node-http-proxy/master/doc/logo.png"/>
 </p>
 
-# node-http-proxy [![Build Status](https://travis-ci.org/nodejitsu/node-http-proxy.svg?branch=master)](https://travis-ci.org/nodejitsu/node-http-proxy) [![codecov](https://codecov.io/gh/nodejitsu/node-http-proxy/branch/master/graph/badge.svg)](https://codecov.io/gh/nodejitsu/node-http-proxy)
+# node-http-proxy [![Build Status](https://travis-ci.org/nodejitsu/node-http-proxy.svg?branch=master)](https://travis-ci.org/nodejitsu/node-http-proxy) [![codecov](https://codecov.io/gh/nodejitsu/node-http-proxy/branch/master/graph/badge.svg)](https://codecov.io/gh/nodejitsu/node-http-proxy) [![Greenkeeper badge](https://badges.greenkeeper.io/ryanoolala/node-http-proxy.svg)](https://greenkeeper.io/)
 
 `node-http-proxy` is an HTTP programmable proxying library that supports
 websockets. It is suitable for implementing components such as reverse
